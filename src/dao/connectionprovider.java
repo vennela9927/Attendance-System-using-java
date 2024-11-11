@@ -15,7 +15,7 @@ public class connectionprovider {
     private static final String db_name="attendancemanagementproject";
     private static final String db_url="jdbc:mysql://localhost:3306/";
     private static final String db_username="root";
-    private static final String db_password="Ilvbiryani9$";
+    private static final String db_password="your password";
     
     
     public static Connection getcon(){
